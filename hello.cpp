@@ -3,6 +3,6 @@ using namespace std;
 int main()
 {
    cout<<"hello world";
-   cout<<"this is updated version";
+   cout<<"this is an updated version";
    return 0;
 }
